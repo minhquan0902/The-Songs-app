@@ -1,2 +1,2 @@
 # The-Songs-app
-An Application use to track songs to learn
+This application is used to track songs to learn and songs that users have learned. The basic concept of the App is that there will be a csv files in which contains all the information about the Songs' name, artists of the songs, the year that the songs were first recorded and the learnt or havent learnt status. User will use the app to track for learnt/ to learn songs, add new songs, see the list of songs and save changes to the csv file for future use.
